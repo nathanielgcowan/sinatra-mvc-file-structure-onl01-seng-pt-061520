@@ -9,7 +9,7 @@ class Dog
   end
 
   def self.all
-    DOGS
+    @dogs
   end
 
 end
